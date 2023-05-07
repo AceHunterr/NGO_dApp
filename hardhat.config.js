@@ -10,8 +10,11 @@ module.exports = {
   solidity: "0.8.17", 
   networks: {
     goerli: {
-      url: GOERLI_URL,
+      url: "https://rpc.goerli.mudit.blog/",
       accounts: [PRIVATE_KEY],
     },
   },
 }; 
+
+
+7f2ba84579e13e963d1e2f4f1845458a5a2f8baf5c678ba6207414d736b06aa4
